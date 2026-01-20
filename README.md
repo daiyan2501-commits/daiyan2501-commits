@@ -2,9 +2,8 @@
 
 ## Hi,i'm daiyan 👋
 <p align="center">RPL Student | Web Developer</p>
-<a href="https://instagram.com/daiyannalthf" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" />
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/daiyannalthf)
+
 
 
 
