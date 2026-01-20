@@ -2,7 +2,12 @@
 
 ## Hi,i'm daiyan 👋
 <p align="center">RPL Student | Web Developer</p>
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/daiyannalthf)
+<p align="center">
+  <a href="https://instagram.com/daiyannalthf">
+    <img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+  </a>
+</p>
+
 
 
 
